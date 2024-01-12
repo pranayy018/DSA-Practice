@@ -1,5 +1,3 @@
-# DSA-Questions
-
 # Daily DSA Question Solving
 
 Welcome to the Daily DSA Question Solving repository! 🚀

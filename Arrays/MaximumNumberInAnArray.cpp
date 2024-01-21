@@ -1,3 +1,7 @@
+// I/P => arr[5] = {1,2,3,4,10};
+// O/P => max = 10;
+
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,8 @@
+// I/P => arr[5] = {0,1,0,1,1};
+// O/P => NumZero = 2 , NumOne = 3;
+          
+
+
 #include <iostream>
 using namespace std;
 
